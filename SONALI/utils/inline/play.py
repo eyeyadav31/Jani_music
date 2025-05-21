@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ 𝗢𝘄𝗻𝗲𝗿✰", url="http://t.me/Jani_RP_Lover",
+                text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",
             ),
             InlineKeyboardButton(
                 text="✰ 𝗖𝗵𝗮𝘁 ✰", url="https://t.me/+AaI_GATiYwQ5NjU1",
@@ -99,7 +99,7 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="✰ 𝗢𝘄𝗻𝗲𝗿 ✰", url="http://t.me/Jani_RP_Lover",
+                text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",
             ),
             InlineKeyboardButton(
                 text="✰ 𝗖𝗵𝗮𝘁 ✰", url="https://t.me/+AaI_GATiYwQ5NjU1",
