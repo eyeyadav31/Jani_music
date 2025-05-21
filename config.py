@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_THUNDER_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Jani_RP_Lover")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","purvi_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","Jani_Music_Robot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7995626429))
+OWNER_ID = int(getenv("OWNER_ID", 7530396550))
 
 
 # make your bots privacy from telegra.ph and put your url here 
@@ -44,15 +44,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/istkharalam62/Avengers_music",
+    "https://github.com/eyeyadav31/Jani_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/II_WORLD_CHAT_II")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/II_WORLD_CHAT_II")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+AaI_GATiYwQ5NjU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/+AaI_GATiYwQ5NjU1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,10 +90,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/jc6ket.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/5aj1rl.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/o2e21c.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/5aj1rl.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
