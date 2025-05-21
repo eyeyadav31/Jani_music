@@ -173,8 +173,8 @@ queue_6 : "<b>❖ ᴅυʀᴧᴛɪση :</b> υηᴋησᴡη ᴅυʀᴧᴛɪση
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}\n\n❖ <b>sᴛʀєᴧϻ ᴛʏᴘє :</b> {2}\n❖ <b>ʀєǫυєsᴛєᴅ ʙʏ :</b> {3}\n❖ {4}"
 
-stream_1 : "<b><blockquote>➥  𝐏ʟʏɪиɢ 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote></b></blockquote>"
-stream_2 : "<b><blockquote>➥  𝐏ʟʏɪиɢ 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
+stream_1 : "<b>❖ 𝐏ʟʏɪиɢ 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ●</b>\n\n<b>❍ 𝐓ɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ 𝐓ɪϻє ➥</b> {2} 𝐌ɪηυᴛєs \n<b>❍ 𝐏ℓαує∂ 𝐁у ➥</b> {3} \n\n<b></b>"
+stream_2 : "<b>❖ 𝐏ʟʏɪиɢ 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ●</b>\n\n<b>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}"
 
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
 BACK_BUTTON : "ʙᴀᴄᴋ"
